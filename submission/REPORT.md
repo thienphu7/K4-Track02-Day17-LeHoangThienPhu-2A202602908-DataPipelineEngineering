@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Lê Hoàng Thiên Phú / 2A202602908
 **Repo:** https://github.com/thienphu7/K4-Track02-Day17-LeHoangThienPhu-2A202602908-DataPipelineEngineering
-**Commit bài nộp:** _Cập nhật SHA của commit cuối sau khi commit._
+**Commit bài nộp:** 5650eed85da81d12297701a3fd42b59a15314033
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Dùng Codex để đọc đề, xác định ba lỗi.
 **Nguồn tham khảo khác (nếu có):** README, RUBRIC và mã nguồn của đề bài.
 
